@@ -1,0 +1,17 @@
+D:\VS repos\test2\test2\bin\Debug\net6.0-windows\test2.exe
+D:\VS repos\test2\test2\bin\Debug\net6.0-windows\test2.deps.json
+D:\VS repos\test2\test2\bin\Debug\net6.0-windows\test2.runtimeconfig.json
+D:\VS repos\test2\test2\bin\Debug\net6.0-windows\test2.dll
+D:\VS repos\test2\test2\bin\Debug\net6.0-windows\ref\test2.dll
+D:\VS repos\test2\test2\bin\Debug\net6.0-windows\test2.pdb
+D:\VS repos\test2\test2\obj\Debug\net6.0-windows\test2.csproj.AssemblyReference.cache
+D:\VS repos\test2\test2\obj\Debug\net6.0-windows\test2.Form1.resources
+D:\VS repos\test2\test2\obj\Debug\net6.0-windows\test2.csproj.GenerateResource.cache
+D:\VS repos\test2\test2\obj\Debug\net6.0-windows\test2.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS repos\test2\test2\obj\Debug\net6.0-windows\test2.AssemblyInfoInputs.cache
+D:\VS repos\test2\test2\obj\Debug\net6.0-windows\test2.AssemblyInfo.cs
+D:\VS repos\test2\test2\obj\Debug\net6.0-windows\test2.csproj.CoreCompileInputs.cache
+D:\VS repos\test2\test2\obj\Debug\net6.0-windows\test2.dll
+D:\VS repos\test2\test2\obj\Debug\net6.0-windows\ref\test2.dll
+D:\VS repos\test2\test2\obj\Debug\net6.0-windows\test2.pdb
+D:\VS repos\test2\test2\obj\Debug\net6.0-windows\test2.genruntimeconfig.cache
